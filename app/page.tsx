@@ -1,4 +1,3 @@
-// ไม่มี "use client"
 import { PrismaClient } from "@prisma/client";
 
 interface Art {
